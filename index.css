@@ -141,3 +141,30 @@
 #card3 {
   background-color: rgb(234, 224, 224);
 }
+
+.footer_section {
+  background-image: url(/assets/handshake.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 80%;
+  height: 300px;
+  margin: 50px auto;
+  border-radius: 15px;
+  color: white;
+}
+
+.footer {
+  padding-top: 90px;
+  text-align: center;
+}
+.footer > h2 {
+  margin-bottom: 10px;
+}
+.footer > p {
+  margin-bottom: 10px;
+}
+.footer > input {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+}
