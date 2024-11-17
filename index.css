@@ -116,3 +116,28 @@
   font-weight: 200;
   margin-bottom: 50px;
 }
+.inspiration {
+  width: 80%;
+  margin: 50px auto;
+}
+.cardButton {
+  font-size: 16px;
+  padding: 8px 5px;
+  font-weight: 600;
+  border: none;
+}
+.cards {
+  margin: 50px 0;
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+}
+#card1 {
+  background-color: rgba(253, 204, 197, 1);
+}
+#card2 {
+  background-color: rgba(178, 199, 255, 1);
+}
+#card3 {
+  background-color: rgb(234, 224, 224);
+}
